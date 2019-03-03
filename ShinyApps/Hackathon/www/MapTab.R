@@ -73,12 +73,6 @@ cv_df_geo <- dplyr::sample_n(cv_df_geo,10000,replace=FALSE)
 #write_csv(cv_df_geo,"~/git_p/knxhack/curbside_violators_geo.csv")
 
 ### Knox geo-fence
-c(-84.44444,-83.51369)
-c(36.2224,36.23043)
-#########
-##### Currently using square geo-fence
-# long_range <- c(-89.5, -88.6)
-# lat_range <- c(42.5, 43.2)
 long_range <- c(-84.44,-83.51)
 lat_range <- c(36.22,36.25)
 
