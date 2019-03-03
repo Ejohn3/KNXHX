@@ -1,0 +1,1153 @@
+Month,Solid_Wate_Category,Location,Type,Waste_Type,Amount_Pounds
+1/1/2018,Commodity,Magnolia & Alice,Drop off Center,Aluminum,460.00
+1/1/2018,Commodity,Magnolia & Alice,Drop off Center,Plastics,8840.00
+1/1/2018,Commodity,Magnolia & Alice,Drop off Center,Glass,15680.00
+1/1/2018,Commodity,Magnolia & Alice,Drop off Center,Mixed Paper,12800.00
+1/1/2018,Commodity,Magnolia & Alice,Drop off Center,Cardboard,10720.00
+1/1/2018,Commodity,Magnolia & Alice,Drop off Center,Steel/Tim,520.00
+1/1/2018,Commodity,Magnolia & Alice,Drop off Center,Newspaper,3440.00
+1/1/2018,Commodity,Magnolia & Alice,Drop off Center,All Mixed (no glass),
+1/1/2018,Commodity,225 Moody,Drop off Center,Aluminum,300.00
+1/1/2018,Commodity,226 Moody,Drop off Center,Plastics,4957.00
+1/1/2018,Commodity,227 Moody,Drop off Center,Glass,6300.00
+1/1/2018,Commodity,228 Moody,Drop off Center,Mixed Paper,6360.00
+1/1/2018,Commodity,229 Moody,Drop off Center,Cardboard,5455.00
+1/1/2018,Commodity,230 Moody,Drop off Center,Steel/Tim,760.00
+1/1/2018,Commodity,231 Moody,Drop off Center,Newspaper,11700.00
+1/1/2018,Commodity,232 Moody,Drop off Center,All Mixed (no glass),
+1/1/2018,Commodity,4440 Western Av.,Drop off Center,Aluminum,680.00
+1/1/2018,Commodity,4440 Western Av.,Drop off Center,Plastics,5540.00
+1/1/2018,Commodity,4440 Western Av.,Drop off Center,Glass,14520.00
+1/1/2018,Commodity,4440 Western Av.,Drop off Center,Mixed Paper,10420.00
+1/1/2018,Commodity,4440 Western Av.,Drop off Center,Cardboard,9200.00
+1/1/2018,Commodity,4440 Western Av.,Drop off Center,Steel/Tim,1200.00
+1/1/2018,Commodity,4440 Western Av.,Drop off Center,Newspaper,
+1/1/2018,Commodity,4440 Western Av.,Drop off Center,All Mixed (no glass),
+1/1/2018,Commodity,341 Parkvillage,Drop off Center,Aluminum,1940.00
+1/1/2018,Commodity,341 Parkvillage,Drop off Center,Plastics,13940.00
+1/1/2018,Commodity,341 Parkvillage,Drop off Center,Glass,29260.00
+1/1/2018,Commodity,341 Parkvillage,Drop off Center,Mixed Paper,32260.00
+1/1/2018,Commodity,341 Parkvillage,Drop off Center,Cardboard,24780.00
+1/1/2018,Commodity,341 Parkvillage,Drop off Center,Steel/Tim,1920.00
+1/1/2018,Commodity,341 Parkvillage,Drop off Center,Newspaper,16040.00
+1/1/2018,Commodity,341 Parkvillage,Drop off Center,All Mixed (no glass),
+1/1/2018,Commodity,227 Willow Av.,Drop off Center,Aluminum,426.00
+1/1/2018,Commodity,227 Willow Av.,Drop off Center,Plastics,3020.00
+1/1/2018,Commodity,227 Willow Av.,Drop off Center,Glass,15820.00
+1/1/2018,Commodity,227 Willow Av.,Drop off Center,Mixed Paper,6560.00
+1/1/2018,Commodity,227 Willow Av.,Drop off Center,Cardboard,3980.00
+1/1/2018,Commodity,227 Willow Av.,Drop off Center,Steel/Tim,540.00
+1/1/2018,Commodity,227 Willow Av.,Drop off Center,Newspaper,3740.00
+1/1/2018,Commodity,227 Willow Av.,Drop off Center,All Mixed (no glass),
+1/1/2018,Commodity,Curbside City-Wide,Curbside,Aluminum,
+1/1/2018,Commodity,Curbside City-Wide,Curbside,Plastics,
+1/1/2018,Commodity,Curbside City-Wide,Curbside,Glass,
+1/1/2018,Commodity,Curbside City-Wide,Curbside,Mixed Paper,
+1/1/2018,Commodity,Curbside City-Wide,Curbside,Cardboard,
+1/1/2018,Commodity,Curbside City-Wide,Curbside,Steel/Tim,
+1/1/2018,Commodity,Curbside City-Wide,Curbside,Newspaper,
+1/1/2018,Commodity,Curbside City-Wide,Curbside,All Mixed (no glass),
+1/1/2018,Commodity,Downtown,Curbside,Aluminum,
+1/1/2018,Commodity,Downtown,Curbside,Plastics,
+1/1/2018,Commodity,Downtown,Curbside,Glass,
+1/1/2018,Commodity,Downtown,Curbside,Mixed Paper,
+1/1/2018,Commodity,Downtown,Curbside,Cardboard,8300.00
+1/1/2018,Commodity,Downtown,Curbside,Steel/Tim,
+1/1/2018,Commodity,Downtown,Curbside,Newspaper,
+1/1/2018,Commodity,Downtown,Curbside,All Mixed (no glass),
+1/1/2018,Commodity,KPD,Other,Aluminum,
+1/1/2018,Commodity,KPD,Other,Plastics,
+1/1/2018,Commodity,KPD,Other,Glass,
+1/1/2018,Commodity,KPD,Other,Mixed Paper,5054.00
+1/1/2018,Commodity,KPD,Other,Cardboard,
+1/1/2018,Commodity,KPD,Other,Steel/Tim,
+1/1/2018,Commodity,KPD,Other,Newspaper,
+1/1/2018,Commodity,KPD,Other,All Mixed (no glass),
+1/1/2018,Commodity,Recycling Trailer,Other,Aluminum,
+1/1/2018,Commodity,Recycling Trailer,Other,Plastics,
+1/1/2018,Commodity,Recycling Trailer,Other,Glass,
+1/1/2018,Commodity,Recycling Trailer,Other,Mixed Paper,
+1/1/2018,Commodity,Recycling Trailer,Other,Cardboard,
+1/1/2018,Commodity,Recycling Trailer,Other,Steel/Tim,
+1/1/2018,Commodity,Recycling Trailer,Other,Newspaper,
+1/1/2018,Commodity,Recycling Trailer,Other,All Mixed (no glass),
+1/1/2018,Landfill,Landfill Class 1,Waste,Transfer Station,1322.00
+1/1/2018,Landfill,Landfill Class 1,Waste,Household Trash,3531.00
+1/1/2018,Landfill,Landfill Class 1,Waste,Misc Trash,1.70
+1/1/2018,Landfill,Landfill Class 1,Waste,Construction,
+1/1/2018,Landfill,Landfill Class 1,Waste,Codes,
+1/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Transfer Station,1072.00
+1/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Household Trash,
+1/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Misc Trash,
+1/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Construction,317.00
+1/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Codes,157.00
+1/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Scrap Meta,33.60
+1/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Tires,0.00
+1/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Carpet,2.70
+1/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW E-Waste,0.00
+1/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW Mixed Recycling,1.20
+1/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW Diverted,
+1/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Scrap Meta,
+1/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Tires,
+1/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Carpet,
+1/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW E-Waste,
+1/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW Mixed Recycling,
+1/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW Diverted,1.30
+1/1/2018,Mulch (TONS),Citywide,Total,Leaves,377.70
+1/1/2018,Mulch (TONS),Citywide,Total,Brush,1128.60
+2/1/2018,Commodity,Magnolia & Alice,Drop off Center,Aluminum, 700 
+2/1/2018,Commodity,Magnolia & Alice,Drop off Center,Plastics," 3,740 "
+2/1/2018,Commodity,Magnolia & Alice,Drop off Center,Glass," 5,900 "
+2/1/2018,Commodity,Magnolia & Alice,Drop off Center,Mixed Paper," 11,140 "
+2/1/2018,Commodity,Magnolia & Alice,Drop off Center,Cardboard," 4,380 "
+2/1/2018,Commodity,Magnolia & Alice,Drop off Center,Steel/Tim, 320 
+2/1/2018,Commodity,Magnolia & Alice,Drop off Center,Newspaper,
+2/1/2018,Commodity,Magnolia & Alice,Drop off Center,All Mixed (no glass),
+2/1/2018,Commodity,225 Moody,Drop off Center,Aluminum, 460 
+2/1/2018,Commodity,226 Moody,Drop off Center,Plastics," 6,640 "
+2/1/2018,Commodity,227 Moody,Drop off Center,Glass," 15,280 "
+2/1/2018,Commodity,228 Moody,Drop off Center,Mixed Paper," 24,340 "
+2/1/2018,Commodity,229 Moody,Drop off Center,Cardboard," 8,560 "
+2/1/2018,Commodity,230 Moody,Drop off Center,Steel/Tim, 780 
+2/1/2018,Commodity,231 Moody,Drop off Center,Newspaper," 11,220 "
+2/1/2018,Commodity,232 Moody,Drop off Center,All Mixed (no glass),
+2/1/2018,Commodity,4440 Western Av.,Drop off Center,Aluminum, 360 
+2/1/2018,Commodity,4440 Western Av.,Drop off Center,Plastics," 4,100 "
+2/1/2018,Commodity,4440 Western Av.,Drop off Center,Glass," 13,860 "
+2/1/2018,Commodity,4440 Western Av.,Drop off Center,Mixed Paper," 7,480 "
+2/1/2018,Commodity,4440 Western Av.,Drop off Center,Cardboard," 7,240 "
+2/1/2018,Commodity,4440 Western Av.,Drop off Center,Steel/Tim, 600 
+2/1/2018,Commodity,4440 Western Av.,Drop off Center,Newspaper," 7,760 "
+2/1/2018,Commodity,4440 Western Av.,Drop off Center,All Mixed (no glass),
+2/1/2018,Commodity,341 Parkvillage,Drop off Center,Aluminum," 12,220 "
+2/1/2018,Commodity,341 Parkvillage,Drop off Center,Plastics," 25,480 "
+2/1/2018,Commodity,341 Parkvillage,Drop off Center,Glass," 38,000 "
+2/1/2018,Commodity,341 Parkvillage,Drop off Center,Mixed Paper," 50,680 "
+2/1/2018,Commodity,341 Parkvillage,Drop off Center,Cardboard," 26,720 "
+2/1/2018,Commodity,341 Parkvillage,Drop off Center,Steel/Tim," 1,900 "
+2/1/2018,Commodity,341 Parkvillage,Drop off Center,Newspaper," 19,980 "
+2/1/2018,Commodity,341 Parkvillage,Drop off Center,All Mixed (no glass),
+2/1/2018,Commodity,227 Willow Av.,Drop off Center,Aluminum, 260 
+2/1/2018,Commodity,227 Willow Av.,Drop off Center,Plastics," 3,560 "
+2/1/2018,Commodity,227 Willow Av.,Drop off Center,Glass," 17,640 "
+2/1/2018,Commodity,227 Willow Av.,Drop off Center,Mixed Paper," 8,040 "
+2/1/2018,Commodity,227 Willow Av.,Drop off Center,Cardboard," 6,680 "
+2/1/2018,Commodity,227 Willow Av.,Drop off Center,Steel/Tim," 1,120 "
+2/1/2018,Commodity,227 Willow Av.,Drop off Center,Newspaper,
+2/1/2018,Commodity,227 Willow Av.,Drop off Center,All Mixed (no glass),
+2/1/2018,Commodity,Curbside City-Wide,Curbside,Aluminum,
+2/1/2018,Commodity,Curbside City-Wide,Curbside,Plastics,
+2/1/2018,Commodity,Curbside City-Wide,Curbside,Glass,
+2/1/2018,Commodity,Curbside City-Wide,Curbside,Mixed Paper,
+2/1/2018,Commodity,Curbside City-Wide,Curbside,Cardboard,
+2/1/2018,Commodity,Curbside City-Wide,Curbside,Steel/Tim,
+2/1/2018,Commodity,Curbside City-Wide,Curbside,Newspaper,
+2/1/2018,Commodity,Curbside City-Wide,Curbside,All Mixed (no glass),
+2/1/2018,Commodity,Downtown,Curbside,Aluminum,
+2/1/2018,Commodity,Downtown,Curbside,Plastics,
+2/1/2018,Commodity,Downtown,Curbside,Glass,
+2/1/2018,Commodity,Downtown,Curbside,Mixed Paper,
+2/1/2018,Commodity,Downtown,Curbside,Cardboard,5340.00
+2/1/2018,Commodity,Downtown,Curbside,Steel/Tim,
+2/1/2018,Commodity,Downtown,Curbside,Newspaper,
+2/1/2018,Commodity,Downtown,Curbside,All Mixed (no glass),
+2/1/2018,Commodity,KPD,Other,Aluminum,
+2/1/2018,Commodity,KPD,Other,Plastics,
+2/1/2018,Commodity,KPD,Other,Glass,
+2/1/2018,Commodity,KPD,Other,Mixed Paper,5852.00
+2/1/2018,Commodity,KPD,Other,Cardboard,
+2/1/2018,Commodity,KPD,Other,Steel/Tim,
+2/1/2018,Commodity,KPD,Other,Newspaper,
+2/1/2018,Commodity,KPD,Other,All Mixed (no glass),
+2/1/2018,Commodity,Recycling Trailer,Other,Aluminum,
+2/1/2018,Commodity,Recycling Trailer,Other,Plastics,
+2/1/2018,Commodity,Recycling Trailer,Other,Glass,
+2/1/2018,Commodity,Recycling Trailer,Other,Mixed Paper,
+2/1/2018,Commodity,Recycling Trailer,Other,Cardboard,
+2/1/2018,Commodity,Recycling Trailer,Other,Steel/Tim,
+2/1/2018,Commodity,Recycling Trailer,Other,Newspaper,
+2/1/2018,Commodity,Recycling Trailer,Other,All Mixed (no glass),
+2/1/2018,Landfill,Landfill Class 1,Waste,Transfer Station," 1,075.7 "
+2/1/2018,Landfill,Landfill Class 1,Waste,Household Trash," 3,072.2 "
+2/1/2018,Landfill,Landfill Class 1,Waste,Misc Trash, 0.9 
+2/1/2018,Landfill,Landfill Class 1,Waste,Construction,
+2/1/2018,Landfill,Landfill Class 1,Waste,Codes,
+2/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Transfer Station," 1,535.0 "
+2/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Household Trash,
+2/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Misc Trash,
+2/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Construction, 543.0 
+2/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Codes, 360.0 
+2/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Scrap Meta,44.0
+2/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Tires,7.8
+2/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Carpet,3.7
+2/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW E-Waste,0.0
+2/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW Mixed Recycling,7.6
+2/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW Diverted,
+2/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Scrap Meta,
+2/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Tires,
+2/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Carpet,
+2/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW E-Waste,
+2/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW Mixed Recycling,
+2/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW Diverted,
+2/1/2018,Mulch (TONS),Citywide,Total,Leaves, 186.8 
+2/1/2018,Mulch (TONS),Citywide,Total,Brush," 1,480.3 "
+3/1/2018,Commodity,Magnolia & Alice,Drop off Center,Aluminum, 300 
+3/1/2018,Commodity,Magnolia & Alice,Drop off Center,Plastics," 5,760 "
+3/1/2018,Commodity,Magnolia & Alice,Drop off Center,Glass," 12,400 "
+3/1/2018,Commodity,Magnolia & Alice,Drop off Center,Mixed Paper," 15,500 "
+3/1/2018,Commodity,Magnolia & Alice,Drop off Center,Cardboard," 8,720 "
+3/1/2018,Commodity,Magnolia & Alice,Drop off Center,Steel/Tim, 820 
+3/1/2018,Commodity,Magnolia & Alice,Drop off Center,Newspaper,
+3/1/2018,Commodity,Magnolia & Alice,Drop off Center,All Mixed (no glass),
+3/1/2018,Commodity,225 Moody,Drop off Center,Aluminum, 740 
+3/1/2018,Commodity,225 Moody,Drop off Center,Plastics," 7,900 "
+3/1/2018,Commodity,225 Moody,Drop off Center,Glass," 18,540 "
+3/1/2018,Commodity,225 Moody,Drop off Center,Mixed Paper," 11,360 "
+3/1/2018,Commodity,225 Moody,Drop off Center,Cardboard," 8,540 "
+3/1/2018,Commodity,225 Moody,Drop off Center,Steel/Tim, 240 
+3/1/2018,Commodity,225 Moody,Drop off Center,Newspaper," 11,920 "
+3/1/2018,Commodity,225 Moody,Drop off Center,All Mixed (no glass),
+3/1/2018,Commodity,4440 Western Av.,Drop off Center,Aluminum, -   
+3/1/2018,Commodity,4440 Western Av.,Drop off Center,Plastics," 6,540 "
+3/1/2018,Commodity,4440 Western Av.,Drop off Center,Glass," 7,060 "
+3/1/2018,Commodity,4440 Western Av.,Drop off Center,Mixed Paper," 10,580 "
+3/1/2018,Commodity,4440 Western Av.,Drop off Center,Cardboard," 9,320 "
+3/1/2018,Commodity,4440 Western Av.,Drop off Center,Steel/Tim, -   
+3/1/2018,Commodity,4440 Western Av.,Drop off Center,Newspaper, -   
+3/1/2018,Commodity,4440 Western Av.,Drop off Center,All Mixed (no glass),
+3/1/2018,Commodity,341 Parkvillage,Drop off Center,Aluminum," 2,720 "
+3/1/2018,Commodity,341 Parkvillage,Drop off Center,Plastics," 26,500 "
+3/1/2018,Commodity,341 Parkvillage,Drop off Center,Glass," 42,800 "
+3/1/2018,Commodity,341 Parkvillage,Drop off Center,Mixed Paper," 53,400 "
+3/1/2018,Commodity,341 Parkvillage,Drop off Center,Cardboard," 34,820 "
+3/1/2018,Commodity,341 Parkvillage,Drop off Center,Steel/Tim," 2,000 "
+3/1/2018,Commodity,341 Parkvillage,Drop off Center,Newspaper," 16,280 "
+3/1/2018,Commodity,341 Parkvillage,Drop off Center,All Mixed (no glass),
+3/1/2018,Commodity,227 Willow Av.,Drop off Center,Aluminum, 180 
+3/1/2018,Commodity,227 Willow Av.,Drop off Center,Plastics," 2,940 "
+3/1/2018,Commodity,227 Willow Av.,Drop off Center,Glass," 19,640 "
+3/1/2018,Commodity,227 Willow Av.,Drop off Center,Mixed Paper," 12,460 "
+3/1/2018,Commodity,227 Willow Av.,Drop off Center,Cardboard," 7,320 "
+3/1/2018,Commodity,227 Willow Av.,Drop off Center,Steel/Tim, 620 
+3/1/2018,Commodity,227 Willow Av.,Drop off Center,Newspaper,
+3/1/2018,Commodity,227 Willow Av.,Drop off Center,All Mixed (no glass),
+3/1/2018,Commodity,Curbside City-Wide,Curbside,Aluminum,
+3/1/2018,Commodity,Curbside City-Wide,Curbside,Plastics,
+3/1/2018,Commodity,Curbside City-Wide,Curbside,Glass,
+3/1/2018,Commodity,Curbside City-Wide,Curbside,Mixed Paper,
+3/1/2018,Commodity,Curbside City-Wide,Curbside,Cardboard,
+3/1/2018,Commodity,Curbside City-Wide,Curbside,Steel/Tim,
+3/1/2018,Commodity,Curbside City-Wide,Curbside,Newspaper,
+3/1/2018,Commodity,Curbside City-Wide,Curbside,All Mixed (no glass),
+3/1/2018,Commodity,Downtown,Curbside,Aluminum,
+3/1/2018,Commodity,Downtown,Curbside,Plastics,
+3/1/2018,Commodity,Downtown,Curbside,Glass,
+3/1/2018,Commodity,Downtown,Curbside,Mixed Paper,
+3/1/2018,Commodity,Downtown,Curbside,Cardboard,5640.00
+3/1/2018,Commodity,Downtown,Curbside,Steel/Tim,
+3/1/2018,Commodity,Downtown,Curbside,Newspaper,
+3/1/2018,Commodity,Downtown,Curbside,All Mixed (no glass),
+3/1/2018,Commodity,KPD,Other,Aluminum,
+3/1/2018,Commodity,KPD,Other,Plastics,
+3/1/2018,Commodity,KPD,Other,Glass,
+3/1/2018,Commodity,KPD,Other,Mixed Paper,7874.00
+3/1/2018,Commodity,KPD,Other,Cardboard,
+3/1/2018,Commodity,KPD,Other,Steel/Tim,
+3/1/2018,Commodity,KPD,Other,Newspaper,
+3/1/2018,Commodity,KPD,Other,All Mixed (no glass),
+3/1/2018,Commodity,Recycling Trailer,Other,Aluminum,
+3/1/2018,Commodity,Recycling Trailer,Other,Plastics,
+3/1/2018,Commodity,Recycling Trailer,Other,Glass,
+3/1/2018,Commodity,Recycling Trailer,Other,Mixed Paper,
+3/1/2018,Commodity,Recycling Trailer,Other,Cardboard,
+3/1/2018,Commodity,Recycling Trailer,Other,Steel/Tim,
+3/1/2018,Commodity,Recycling Trailer,Other,Newspaper,
+3/1/2018,Commodity,Recycling Trailer,Other,All Mixed (no glass),
+3/1/2018,Landfill,Landfill Class 1,Waste,Transfer Station," 1,422.2 "
+3/1/2018,Landfill,Landfill Class 1,Waste,Household Trash," 3,540.6 "
+3/1/2018,Landfill,Landfill Class 1,Waste,Misc Trash, 1.0 
+3/1/2018,Landfill,Landfill Class 1,Waste,Construction,
+3/1/2018,Landfill,Landfill Class 1,Waste,Codes,
+3/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Transfer Station,1453
+3/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Household Trash,
+3/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Misc Trash,
+3/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Construction,541
+3/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Codes,1008
+3/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Scrap Meta,51.5
+3/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Tires,9.4
+3/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Carpet,2.9
+3/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW E-Waste,2.7
+3/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW Mixed Recycling,1.3
+3/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW Diverted,
+3/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Scrap Meta,
+3/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Tires,
+3/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Carpet,
+3/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW E-Waste,
+3/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW Mixed Recycling,
+3/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW Diverted,
+3/1/2018,Mulch (TONS),Citywide,Total,Leaves, 130.63 
+3/1/2018,Mulch (TONS),Citywide,Total,Brush," 1,848.07 "
+4/1/2018,Commodity,Magnolia & Alice,Drop off Center,Aluminum, 900 
+4/1/2018,Commodity,Magnolia & Alice,Drop off Center,Plastics," 4,160 "
+4/1/2018,Commodity,Magnolia & Alice,Drop off Center,Glass," 12,860 "
+4/1/2018,Commodity,Magnolia & Alice,Drop off Center,Mixed Paper," 8,640 "
+4/1/2018,Commodity,Magnolia & Alice,Drop off Center,Cardboard,8120
+4/1/2018,Commodity,Magnolia & Alice,Drop off Center,Steel/Tim, 900 
+4/1/2018,Commodity,Magnolia & Alice,Drop off Center,Newspaper,
+4/1/2018,Commodity,Magnolia & Alice,Drop off Center,All Mixed (no glass),
+4/1/2018,Commodity,225 Moody,Drop off Center,Aluminum, 240 
+4/1/2018,Commodity,225 Moody,Drop off Center,Plastics," 7,740 "
+4/1/2018,Commodity,225 Moody,Drop off Center,Glass," 13,750 "
+4/1/2018,Commodity,225 Moody,Drop off Center,Mixed Paper," 10,960 "
+4/1/2018,Commodity,225 Moody,Drop off Center,Cardboard," 9,480 "
+4/1/2018,Commodity,225 Moody,Drop off Center,Steel/Tim, 940 
+4/1/2018,Commodity,225 Moody,Drop off Center,Newspaper," 24,840 "
+4/1/2018,Commodity,225 Moody,Drop off Center,All Mixed (no glass),
+4/1/2018,Commodity,4440 Western Av.,Drop off Center,Aluminum, 360 
+4/1/2018,Commodity,4440 Western Av.,Drop off Center,Plastics," 6,140 "
+4/1/2018,Commodity,4440 Western Av.,Drop off Center,Glass," 14,840 "
+4/1/2018,Commodity,4440 Western Av.,Drop off Center,Mixed Paper," 11,380 "
+4/1/2018,Commodity,4440 Western Av.,Drop off Center,Cardboard," 8,900 "
+4/1/2018,Commodity,4440 Western Av.,Drop off Center,Steel/Tim, 800 
+4/1/2018,Commodity,4440 Western Av.,Drop off Center,Newspaper," 7,480 "
+4/1/2018,Commodity,4440 Western Av.,Drop off Center,All Mixed (no glass),
+4/1/2018,Commodity,341 Parkvillage,Drop off Center,Aluminum," 2,720 "
+4/1/2018,Commodity,341 Parkvillage,Drop off Center,Plastics," 30,720 "
+4/1/2018,Commodity,341 Parkvillage,Drop off Center,Glass," 33,080 "
+4/1/2018,Commodity,341 Parkvillage,Drop off Center,Mixed Paper," 52,900 "
+4/1/2018,Commodity,341 Parkvillage,Drop off Center,Cardboard," 41,620 "
+4/1/2018,Commodity,341 Parkvillage,Drop off Center,Steel/Tim," 2,540 "
+4/1/2018,Commodity,341 Parkvillage,Drop off Center,Newspaper," 16,340 "
+4/1/2018,Commodity,341 Parkvillage,Drop off Center,All Mixed (no glass),
+4/1/2018,Commodity,227 Willow Av.,Drop off Center,Aluminum, 220 
+4/1/2018,Commodity,227 Willow Av.,Drop off Center,Plastics," 3,480 "
+4/1/2018,Commodity,227 Willow Av.,Drop off Center,Glass," 16,180 "
+4/1/2018,Commodity,227 Willow Av.,Drop off Center,Mixed Paper," 7,920 "
+4/1/2018,Commodity,227 Willow Av.,Drop off Center,Cardboard," 7,420 "
+4/1/2018,Commodity,227 Willow Av.,Drop off Center,Steel/Tim, 480 
+4/1/2018,Commodity,227 Willow Av.,Drop off Center,Newspaper,
+4/1/2018,Commodity,227 Willow Av.,Drop off Center,All Mixed (no glass),
+4/1/2018,Commodity,Curbside City-Wide,Curbside,Aluminum,
+4/1/2018,Commodity,Curbside City-Wide,Curbside,Plastics,
+4/1/2018,Commodity,Curbside City-Wide,Curbside,Glass,
+4/1/2018,Commodity,Curbside City-Wide,Curbside,Mixed Paper,
+4/1/2018,Commodity,Curbside City-Wide,Curbside,Cardboard,
+4/1/2018,Commodity,Curbside City-Wide,Curbside,Steel/Tim,
+4/1/2018,Commodity,Curbside City-Wide,Curbside,Newspaper,
+4/1/2018,Commodity,Curbside City-Wide,Curbside,All Mixed (no glass),
+4/1/2018,Commodity,Downtown,Curbside,Aluminum,
+4/1/2018,Commodity,Downtown,Curbside,Plastics,
+4/1/2018,Commodity,Downtown,Curbside,Glass,
+4/1/2018,Commodity,Downtown,Curbside,Mixed Paper,
+4/1/2018,Commodity,Downtown,Curbside,Cardboard,3340.00
+4/1/2018,Commodity,Downtown,Curbside,Steel/Tim,
+4/1/2018,Commodity,Downtown,Curbside,Newspaper,
+4/1/2018,Commodity,Downtown,Curbside,All Mixed (no glass),
+4/1/2018,Commodity,KPD,Other,Aluminum,
+4/1/2018,Commodity,KPD,Other,Plastics,
+4/1/2018,Commodity,KPD,Other,Glass,
+4/1/2018,Commodity,KPD,Other,Mixed Paper,5852.00
+4/1/2018,Commodity,KPD,Other,Cardboard,
+4/1/2018,Commodity,KPD,Other,Steel/Tim,
+4/1/2018,Commodity,KPD,Other,Newspaper,
+4/1/2018,Commodity,KPD,Other,All Mixed (no glass),
+4/1/2018,Commodity,Recycling Trailer,Other,Aluminum,
+4/1/2018,Commodity,Recycling Trailer,Other,Plastics,
+4/1/2018,Commodity,Recycling Trailer,Other,Glass,
+4/1/2018,Commodity,Recycling Trailer,Other,Mixed Paper,
+4/1/2018,Commodity,Recycling Trailer,Other,Cardboard,
+4/1/2018,Commodity,Recycling Trailer,Other,Steel/Tim,
+4/1/2018,Commodity,Recycling Trailer,Other,Newspaper,
+4/1/2018,Commodity,Recycling Trailer,Other,All Mixed (no glass),
+4/1/2018,Landfill,Landfill Class 1,Waste,Transfer Station," 1,585.7 "
+4/1/2018,Landfill,Landfill Class 1,Waste,Household Trash," 3,309.1 "
+4/1/2018,Landfill,Landfill Class 1,Waste,Misc Trash, 2.6 
+4/1/2018,Landfill,Landfill Class 1,Waste,Construction,
+4/1/2018,Landfill,Landfill Class 1,Waste,Codes,
+4/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Transfer Station,1643
+4/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Household Trash,
+4/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Misc Trash,
+4/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Construction,380
+4/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Codes,367
+4/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Scrap Meta,53.1
+4/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Tires,0.0
+4/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Carpet,6.2
+4/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW E-Waste,0.0
+4/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW Mixed Recycling,10.9
+4/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW Diverted,
+4/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Scrap Meta,
+4/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Tires,
+4/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Carpet,
+4/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW E-Waste,
+4/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW Mixed Recycling,
+4/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW Diverted,0.60
+4/1/2018,Mulch (TONS),Citywide,Total,Leaves,
+4/1/2018,Mulch (TONS),Citywide,Total,Brush," 2,120.2 "
+5/1/2018,Commodity,Magnolia & Alice,Drop off Center,Aluminum,780
+5/1/2018,Commodity,Magnolia & Alice,Drop off Center,Plastics,8000
+5/1/2018,Commodity,Magnolia & Alice,Drop off Center,Glass,7500
+5/1/2018,Commodity,Magnolia & Alice,Drop off Center,Mixed Paper,13500
+5/1/2018,Commodity,Magnolia & Alice,Drop off Center,Cardboard,18060
+5/1/2018,Commodity,Magnolia & Alice,Drop off Center,Steel/Tim,
+5/1/2018,Commodity,Magnolia & Alice,Drop off Center,Newspaper,8400
+5/1/2018,Commodity,Magnolia & Alice,Drop off Center,All Mixed (no glass),
+5/1/2018,Commodity,225 Moody,Drop off Center,Aluminum,860
+5/1/2018,Commodity,226 Moody,Drop off Center,Plastics,10220
+5/1/2018,Commodity,227 Moody,Drop off Center,Glass,22460
+5/1/2018,Commodity,228 Moody,Drop off Center,Mixed Paper,14640
+5/1/2018,Commodity,229 Moody,Drop off Center,Cardboard,9560
+5/1/2018,Commodity,230 Moody,Drop off Center,Steel/Tim,1560
+5/1/2018,Commodity,231 Moody,Drop off Center,Newspaper,30000
+5/1/2018,Commodity,232 Moody,Drop off Center,All Mixed (no glass),
+5/1/2018,Commodity,4440 Western Av.,Drop off Center,Aluminum,380
+5/1/2018,Commodity,4440 Western Av.,Drop off Center,Plastics,6000
+5/1/2018,Commodity,4440 Western Av.,Drop off Center,Glass,9520
+5/1/2018,Commodity,4440 Western Av.,Drop off Center,Mixed Paper,14560
+5/1/2018,Commodity,4440 Western Av.,Drop off Center,Cardboard,10540
+5/1/2018,Commodity,4440 Western Av.,Drop off Center,Steel/Tim,1020
+5/1/2018,Commodity,4440 Western Av.,Drop off Center,Newspaper,
+5/1/2018,Commodity,4440 Western Av.,Drop off Center,All Mixed (no glass),
+5/1/2018,Commodity,341 Parkvillage,Drop off Center,Aluminum,3660
+5/1/2018,Commodity,341 Parkvillage,Drop off Center,Plastics,29680
+5/1/2018,Commodity,341 Parkvillage,Drop off Center,Glass,48000
+5/1/2018,Commodity,341 Parkvillage,Drop off Center,Mixed Paper,53940
+5/1/2018,Commodity,341 Parkvillage,Drop off Center,Cardboard,37320
+5/1/2018,Commodity,341 Parkvillage,Drop off Center,Steel/Tim,2060
+5/1/2018,Commodity,341 Parkvillage,Drop off Center,Newspaper,22680
+5/1/2018,Commodity,341 Parkvillage,Drop off Center,All Mixed (no glass),
+5/1/2018,Commodity,227 Willow Av.,Drop off Center,Aluminum,680
+5/1/2018,Commodity,227 Willow Av.,Drop off Center,Plastics,4440
+5/1/2018,Commodity,227 Willow Av.,Drop off Center,Glass,15080
+5/1/2018,Commodity,227 Willow Av.,Drop off Center,Mixed Paper,7700
+5/1/2018,Commodity,227 Willow Av.,Drop off Center,Cardboard,9260
+5/1/2018,Commodity,227 Willow Av.,Drop off Center,Steel/Tim,1020
+5/1/2018,Commodity,227 Willow Av.,Drop off Center,Newspaper,5320
+5/1/2018,Commodity,227 Willow Av.,Drop off Center,All Mixed (no glass),
+5/1/2018,Commodity,Curbside City-Wide,Curbside,Aluminum,
+5/1/2018,Commodity,Curbside City-Wide,Curbside,Plastics,
+5/1/2018,Commodity,Curbside City-Wide,Curbside,Glass,
+5/1/2018,Commodity,Curbside City-Wide,Curbside,Mixed Paper,
+5/1/2018,Commodity,Curbside City-Wide,Curbside,Cardboard,
+5/1/2018,Commodity,Curbside City-Wide,Curbside,Steel/Tim,
+5/1/2018,Commodity,Curbside City-Wide,Curbside,Newspaper,
+5/1/2018,Commodity,Curbside City-Wide,Curbside,All Mixed (no glass),
+5/1/2018,Commodity,Downtown,Curbside,Aluminum,
+5/1/2018,Commodity,Downtown,Curbside,Plastics,
+5/1/2018,Commodity,Downtown,Curbside,Glass,
+5/1/2018,Commodity,Downtown,Curbside,Mixed Paper,
+5/1/2018,Commodity,Downtown,Curbside,Cardboard,12500
+5/1/2018,Commodity,Downtown,Curbside,Steel/Tim,
+5/1/2018,Commodity,Downtown,Curbside,Newspaper,
+5/1/2018,Commodity,Downtown,Curbside,All Mixed (no glass),
+5/1/2018,Commodity,KPD,Other,Aluminum,
+5/1/2018,Commodity,KPD,Other,Plastics,
+5/1/2018,Commodity,KPD,Other,Glass,
+5/1/2018,Commodity,KPD,Other,Mixed Paper,6601
+5/1/2018,Commodity,KPD,Other,Cardboard,
+5/1/2018,Commodity,KPD,Other,Steel/Tim,
+5/1/2018,Commodity,KPD,Other,Newspaper,
+5/1/2018,Commodity,KPD,Other,All Mixed (no glass),
+5/1/2018,Commodity,Recycling Trailer,Other,Aluminum,
+5/1/2018,Commodity,Recycling Trailer,Other,Plastics,
+5/1/2018,Commodity,Recycling Trailer,Other,Glass,
+5/1/2018,Commodity,Recycling Trailer,Other,Mixed Paper,
+5/1/2018,Commodity,Recycling Trailer,Other,Cardboard,
+5/1/2018,Commodity,Recycling Trailer,Other,Steel/Tim,
+5/1/2018,Commodity,Recycling Trailer,Other,Newspaper,
+5/1/2018,Commodity,Recycling Trailer,Other,All Mixed (no glass),
+5/1/2018,Landfill,Landfill Class 1,Waste,Transfer Station,1226.41
+5/1/2018,Landfill,Landfill Class 1,Waste,Household Trash,3766.13
+5/1/2018,Landfill,Landfill Class 1,Waste,Misc Trash,0.95
+5/1/2018,Landfill,Landfill Class 1,Waste,Construction,
+5/1/2018,Landfill,Landfill Class 1,Waste,Codes,
+5/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Transfer Station,2090
+5/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Household Trash,
+5/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Misc Trash,
+5/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Construction,244
+5/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Codes,247
+5/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Scrap Meta,48.01
+5/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Tires,8.95
+5/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Carpet,7.37
+5/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW E-Waste,2.81
+5/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW Mixed Recycling,6.13
+5/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW Diverted,
+5/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Scrap Meta,
+5/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Tires,
+5/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Carpet,
+5/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW E-Waste,
+5/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW Mixed Recycling,
+5/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW Diverted,1.16
+5/1/2018,Mulch (TONS),Citywide,Total,Leaves,
+5/1/2018,Mulch (TONS),Citywide,Total,Brush,2067.25
+6/1/2018,Commodity,Magnolia & Alice,Drop off Center,Aluminum, 840 
+6/1/2018,Commodity,Magnolia & Alice,Drop off Center,Plastics," 6,700 "
+6/1/2018,Commodity,Magnolia & Alice,Drop off Center,Glass," 11,180 "
+6/1/2018,Commodity,Magnolia & Alice,Drop off Center,Mixed Paper," 20,360 "
+6/1/2018,Commodity,Magnolia & Alice,Drop off Center,Cardboard," 14,780 "
+6/1/2018,Commodity,Magnolia & Alice,Drop off Center,Steel/Tim, 520 
+6/1/2018,Commodity,Magnolia & Alice,Drop off Center,Newspaper,
+6/1/2018,Commodity,Magnolia & Alice,Drop off Center,All Mixed (no glass),
+6/1/2018,Commodity,225 Moody,Drop off Center,Aluminum, 540 
+6/1/2018,Commodity,225 Moody,Drop off Center,Plastics," 4,580 "
+6/1/2018,Commodity,225 Moody,Drop off Center,Glass," 9,120 "
+6/1/2018,Commodity,225 Moody,Drop off Center,Mixed Paper," 19,520 "
+6/1/2018,Commodity,225 Moody,Drop off Center,Cardboard," 8,860 "
+6/1/2018,Commodity,225 Moody,Drop off Center,Steel/Tim, 420 
+6/1/2018,Commodity,225 Moody,Drop off Center,Newspaper," 16,700 "
+6/1/2018,Commodity,225 Moody,Drop off Center,All Mixed (no glass),
+6/1/2018,Commodity,4440 Western Av.,Drop off Center,Aluminum, -   
+6/1/2018,Commodity,4440 Western Av.,Drop off Center,Plastics," 6,620 "
+6/1/2018,Commodity,4440 Western Av.,Drop off Center,Glass," 12,940 "
+6/1/2018,Commodity,4440 Western Av.,Drop off Center,Mixed Paper," 9,780 "
+6/1/2018,Commodity,4440 Western Av.,Drop off Center,Cardboard," 10,120 "
+6/1/2018,Commodity,4440 Western Av.,Drop off Center,Steel/Tim,
+6/1/2018,Commodity,4440 Western Av.,Drop off Center,Newspaper, -   
+6/1/2018,Commodity,4440 Western Av.,Drop off Center,All Mixed (no glass),
+6/1/2018,Commodity,341 Parkvillage,Drop off Center,Aluminum," 2,840 "
+6/1/2018,Commodity,341 Parkvillage,Drop off Center,Plastics," 27,680 "
+6/1/2018,Commodity,341 Parkvillage,Drop off Center,Glass," 43,680 "
+6/1/2018,Commodity,341 Parkvillage,Drop off Center,Mixed Paper," 52,300 "
+6/1/2018,Commodity,341 Parkvillage,Drop off Center,Cardboard," 33,020 "
+6/1/2018,Commodity,341 Parkvillage,Drop off Center,Steel/Tim," 2,360 "
+6/1/2018,Commodity,341 Parkvillage,Drop off Center,Newspaper," 12,160 "
+6/1/2018,Commodity,341 Parkvillage,Drop off Center,All Mixed (no glass),
+6/1/2018,Commodity,227 Willow Av.,Drop off Center,Aluminum, 80 
+6/1/2018,Commodity,227 Willow Av.,Drop off Center,Plastics," 3,080 "
+6/1/2018,Commodity,227 Willow Av.,Drop off Center,Glass," 17,460 "
+6/1/2018,Commodity,227 Willow Av.,Drop off Center,Mixed Paper," 6,460 "
+6/1/2018,Commodity,227 Willow Av.,Drop off Center,Cardboard," 9,000 "
+6/1/2018,Commodity,227 Willow Av.,Drop off Center,Steel/Tim, 480 
+6/1/2018,Commodity,227 Willow Av.,Drop off Center,Newspaper," 3,480 "
+6/1/2018,Commodity,227 Willow Av.,Drop off Center,All Mixed (no glass),
+6/1/2018,Commodity,Curbside City-Wide,Curbside,Aluminum,
+6/1/2018,Commodity,Curbside City-Wide,Curbside,Plastics,
+6/1/2018,Commodity,Curbside City-Wide,Curbside,Glass,
+6/1/2018,Commodity,Curbside City-Wide,Curbside,Mixed Paper,
+6/1/2018,Commodity,Curbside City-Wide,Curbside,Cardboard,
+6/1/2018,Commodity,Curbside City-Wide,Curbside,Steel/Tim,
+6/1/2018,Commodity,Curbside City-Wide,Curbside,Newspaper,
+6/1/2018,Commodity,Curbside City-Wide,Curbside,All Mixed (no glass),
+6/1/2018,Commodity,Downtown,Curbside,Aluminum,
+6/1/2018,Commodity,Downtown,Curbside,Plastics,
+6/1/2018,Commodity,Downtown,Curbside,Glass,
+6/1/2018,Commodity,Downtown,Curbside,Mixed Paper,
+6/1/2018,Commodity,Downtown,Curbside,Cardboard,10400.00
+6/1/2018,Commodity,Downtown,Curbside,Steel/Tim,
+6/1/2018,Commodity,Downtown,Curbside,Newspaper,
+6/1/2018,Commodity,Downtown,Curbside,All Mixed (no glass),
+6/1/2018,Commodity,KPD,Other,Aluminum,
+6/1/2018,Commodity,KPD,Other,Plastics,
+6/1/2018,Commodity,KPD,Other,Glass,
+6/1/2018,Commodity,KPD,Other,Mixed Paper,8576.00
+6/1/2018,Commodity,KPD,Other,Cardboard,
+6/1/2018,Commodity,KPD,Other,Steel/Tim,
+6/1/2018,Commodity,KPD,Other,Newspaper,
+6/1/2018,Commodity,KPD,Other,All Mixed (no glass),
+6/1/2018,Commodity,Recycling Trailer,Other,Aluminum,
+6/1/2018,Commodity,Recycling Trailer,Other,Plastics,
+6/1/2018,Commodity,Recycling Trailer,Other,Glass,
+6/1/2018,Commodity,Recycling Trailer,Other,Mixed Paper,
+6/1/2018,Commodity,Recycling Trailer,Other,Cardboard,
+6/1/2018,Commodity,Recycling Trailer,Other,Steel/Tim,
+6/1/2018,Commodity,Recycling Trailer,Other,Newspaper,
+6/1/2018,Commodity,Recycling Trailer,Other,All Mixed (no glass),
+6/1/2018,Landfill,Landfill Class 1,Waste,Transfer Station," 1,133.2 "
+6/1/2018,Landfill,Landfill Class 1,Waste,Household Trash," 3,554.2 "
+6/1/2018,Landfill,Landfill Class 1,Waste,Misc Trash, 1.9 
+6/1/2018,Landfill,Landfill Class 1,Waste,Construction,
+6/1/2018,Landfill,Landfill Class 1,Waste,Codes,
+6/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Transfer Station," 2,249.0 "
+6/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Household Trash,
+6/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Misc Trash,
+6/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Construction, 698.0 
+6/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Codes, 209.0 
+6/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Scrap Meta,55.8
+6/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Tires,10.1
+6/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Carpet,14.8
+6/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW E-Waste,0.0
+6/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW Mixed Recycling,5.1
+6/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW Diverted,
+6/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Scrap Meta,
+6/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Tires,
+6/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Carpet,
+6/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW E-Waste,
+6/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW Mixed Recycling,
+6/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW Diverted,
+6/1/2018,Mulch (TONS),Citywide,Total,Leaves,
+6/1/2018,Mulch (TONS),Citywide,Total,Brush," 2,256.3 "
+7/1/2018,Commodity,Magnolia & Alice,Drop off Center,Aluminum,820
+7/1/2018,Commodity,Magnolia & Alice,Drop off Center,Plastics,6440
+7/1/2018,Commodity,Magnolia & Alice,Drop off Center,Glass,7200
+7/1/2018,Commodity,Magnolia & Alice,Drop off Center,Mixed Paper,19780
+7/1/2018,Commodity,Magnolia & Alice,Drop off Center,Cardboard,36680
+7/1/2018,Commodity,Magnolia & Alice,Drop off Center,Steel/Tim,1480
+7/1/2018,Commodity,Magnolia & Alice,Drop off Center,Newspaper,640
+7/1/2018,Commodity,Magnolia & Alice,Drop off Center,All Mixed (no glass),
+7/1/2018,Commodity,225 Moody,Drop off Center,Aluminum,1620
+7/1/2018,Commodity,226 Moody,Drop off Center,Plastics,10530
+7/1/2018,Commodity,227 Moody,Drop off Center,Glass,24060
+7/1/2018,Commodity,228 Moody,Drop off Center,Mixed Paper,12440
+7/1/2018,Commodity,229 Moody,Drop off Center,Cardboard,35736
+7/1/2018,Commodity,230 Moody,Drop off Center,Steel/Tim,340
+7/1/2018,Commodity,231 Moody,Drop off Center,Newspaper,11440
+7/1/2018,Commodity,232 Moody,Drop off Center,All Mixed (no glass),
+7/1/2018,Commodity,4440 Western Av.,Drop off Center,Aluminum,840
+7/1/2018,Commodity,4440 Western Av.,Drop off Center,Plastics,5820
+7/1/2018,Commodity,4440 Western Av.,Drop off Center,Glass,10740
+7/1/2018,Commodity,4440 Western Av.,Drop off Center,Mixed Paper,29460
+7/1/2018,Commodity,4440 Western Av.,Drop off Center,Cardboard,13780
+7/1/2018,Commodity,4440 Western Av.,Drop off Center,Steel/Tim,760
+7/1/2018,Commodity,4440 Western Av.,Drop off Center,Newspaper,
+7/1/2018,Commodity,4440 Western Av.,Drop off Center,All Mixed (no glass),
+7/1/2018,Commodity,341 Parkvillage,Drop off Center,Aluminum,6020
+7/1/2018,Commodity,341 Parkvillage,Drop off Center,Plastics,35920
+7/1/2018,Commodity,341 Parkvillage,Drop off Center,Glass,39420
+7/1/2018,Commodity,341 Parkvillage,Drop off Center,Mixed Paper,90460
+7/1/2018,Commodity,341 Parkvillage,Drop off Center,Cardboard,68140
+7/1/2018,Commodity,341 Parkvillage,Drop off Center,Steel/Tim,4380
+7/1/2018,Commodity,341 Parkvillage,Drop off Center,Newspaper,8090
+7/1/2018,Commodity,341 Parkvillage,Drop off Center,All Mixed (no glass),
+7/1/2018,Commodity,227 Willow Av.,Drop off Center,Aluminum,200
+7/1/2018,Commodity,227 Willow Av.,Drop off Center,Plastics,3260
+7/1/2018,Commodity,227 Willow Av.,Drop off Center,Glass,20600
+7/1/2018,Commodity,227 Willow Av.,Drop off Center,Mixed Paper,10800
+7/1/2018,Commodity,227 Willow Av.,Drop off Center,Cardboard,9660
+7/1/2018,Commodity,227 Willow Av.,Drop off Center,Steel/Tim,520
+7/1/2018,Commodity,227 Willow Av.,Drop off Center,Newspaper,
+7/1/2018,Commodity,227 Willow Av.,Drop off Center,All Mixed (no glass),
+7/1/2018,Commodity,Curbside City-Wide,Curbside,Aluminum,
+7/1/2018,Commodity,Curbside City-Wide,Curbside,Plastics,
+7/1/2018,Commodity,Curbside City-Wide,Curbside,Glass,
+7/1/2018,Commodity,Curbside City-Wide,Curbside,Mixed Paper,
+7/1/2018,Commodity,Curbside City-Wide,Curbside,Cardboard,
+7/1/2018,Commodity,Curbside City-Wide,Curbside,Steel/Tim,
+7/1/2018,Commodity,Curbside City-Wide,Curbside,Newspaper,
+7/1/2018,Commodity,Curbside City-Wide,Curbside,All Mixed (no glass),
+7/1/2018,Commodity,Downtown,Curbside,Aluminum,
+7/1/2018,Commodity,Downtown,Curbside,Plastics,
+7/1/2018,Commodity,Downtown,Curbside,Glass,
+7/1/2018,Commodity,Downtown,Curbside,Mixed Paper,
+7/1/2018,Commodity,Downtown,Curbside,Cardboard,4880
+7/1/2018,Commodity,Downtown,Curbside,Steel/Tim,
+7/1/2018,Commodity,Downtown,Curbside,Newspaper,
+7/1/2018,Commodity,Downtown,Curbside,All Mixed (no glass),
+7/1/2018,Commodity,KPD,Other,Aluminum,
+7/1/2018,Commodity,KPD,Other,Plastics,
+7/1/2018,Commodity,KPD,Other,Glass,
+7/1/2018,Commodity,KPD,Other,Mixed Paper,10523
+7/1/2018,Commodity,KPD,Other,Cardboard,
+7/1/2018,Commodity,KPD,Other,Steel/Tim,
+7/1/2018,Commodity,KPD,Other,Newspaper,
+7/1/2018,Commodity,KPD,Other,All Mixed (no glass),
+7/1/2018,Commodity,Recycling Trailer,Other,Aluminum,
+7/1/2018,Commodity,Recycling Trailer,Other,Plastics,
+7/1/2018,Commodity,Recycling Trailer,Other,Glass,
+7/1/2018,Commodity,Recycling Trailer,Other,Mixed Paper,
+7/1/2018,Commodity,Recycling Trailer,Other,Cardboard,
+7/1/2018,Commodity,Recycling Trailer,Other,Steel/Tim,
+7/1/2018,Commodity,Recycling Trailer,Other,Newspaper,
+7/1/2018,Commodity,Recycling Trailer,Other,All Mixed (no glass),
+7/1/2018,Landfill,Landfill Class 1,Waste,Transfer Station,1196.06
+7/1/2018,Landfill,Landfill Class 1,Waste,Household Trash,3854.95
+7/1/2018,Landfill,Landfill Class 1,Waste,Misc Trash,2.18
+7/1/2018,Landfill,Landfill Class 1,Waste,Construction,
+7/1/2018,Landfill,Landfill Class 1,Waste,Codes,
+7/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Transfer Station,2182
+7/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Household Trash,
+7/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Misc Trash,
+7/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Construction,384
+7/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Codes,307
+7/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Scrap Meta,58.9
+7/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Tires,10.14
+7/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Carpet,13.57
+7/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW E-Waste,0
+7/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW Mixed Recycling,10.05
+7/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW Diverted,
+7/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Scrap Meta,
+7/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Tires,
+7/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Carpet,
+7/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW E-Waste,
+7/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW Mixed Recycling,
+7/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW Diverted,1.3
+7/1/2018,Mulch (TONS),Citywide,Total,Leaves,
+7/1/2018,Mulch (TONS),Citywide,Total,Brush,2392.5
+8/1/2018,Commodity,Magnolia & Alice,Drop off Center,Aluminum, 840 
+8/1/2018,Commodity,Magnolia & Alice,Drop off Center,Plastics," 6,700 "
+8/1/2018,Commodity,Magnolia & Alice,Drop off Center,Glass," 11,180 "
+8/1/2018,Commodity,Magnolia & Alice,Drop off Center,Mixed Paper," 20,360 "
+8/1/2018,Commodity,Magnolia & Alice,Drop off Center,Cardboard," 14,780 "
+8/1/2018,Commodity,Magnolia & Alice,Drop off Center,Steel/Tim, 520 
+8/1/2018,Commodity,Magnolia & Alice,Drop off Center,Newspaper, -   
+8/1/2018,Commodity,Magnolia & Alice,Drop off Center,All Mixed (no glass),
+8/1/2018,Commodity,225 Moody,Drop off Center,Aluminum, 540 
+8/1/2018,Commodity,225 Moody,Drop off Center,Plastics," 4,580 "
+8/1/2018,Commodity,225 Moody,Drop off Center,Glass," 9,120 "
+8/1/2018,Commodity,225 Moody,Drop off Center,Mixed Paper," 19,520 "
+8/1/2018,Commodity,225 Moody,Drop off Center,Cardboard," 8,860 "
+8/1/2018,Commodity,225 Moody,Drop off Center,Steel/Tim, 420 
+8/1/2018,Commodity,225 Moody,Drop off Center,Newspaper," 16,700 "
+8/1/2018,Commodity,225 Moody,Drop off Center,All Mixed (no glass),
+8/1/2018,Commodity,4440 Western Av.,Drop off Center,Aluminum, -   
+8/1/2018,Commodity,4440 Western Av.,Drop off Center,Plastics," 6,620 "
+8/1/2018,Commodity,4440 Western Av.,Drop off Center,Glass," 12,940 "
+8/1/2018,Commodity,4440 Western Av.,Drop off Center,Mixed Paper," 9,780 "
+8/1/2018,Commodity,4440 Western Av.,Drop off Center,Cardboard," 10,120 "
+8/1/2018,Commodity,4440 Western Av.,Drop off Center,Steel/Tim,
+8/1/2018,Commodity,4440 Western Av.,Drop off Center,Newspaper, -   
+8/1/2018,Commodity,4440 Western Av.,Drop off Center,All Mixed (no glass),
+8/1/2018,Commodity,341 Parkvillage,Drop off Center,Aluminum," 2,840 "
+8/1/2018,Commodity,341 Parkvillage,Drop off Center,Plastics," 27,680 "
+8/1/2018,Commodity,341 Parkvillage,Drop off Center,Glass," 43,680 "
+8/1/2018,Commodity,341 Parkvillage,Drop off Center,Mixed Paper," 52,300 "
+8/1/2018,Commodity,341 Parkvillage,Drop off Center,Cardboard," 33,020 "
+8/1/2018,Commodity,341 Parkvillage,Drop off Center,Steel/Tim," 2,360 "
+8/1/2018,Commodity,341 Parkvillage,Drop off Center,Newspaper," 12,160 "
+8/1/2018,Commodity,341 Parkvillage,Drop off Center,All Mixed (no glass),
+8/1/2018,Commodity,227 Willow Av.,Drop off Center,Aluminum, 80 
+8/1/2018,Commodity,227 Willow Av.,Drop off Center,Plastics," 3,080 "
+8/1/2018,Commodity,227 Willow Av.,Drop off Center,Glass," 17,460 "
+8/1/2018,Commodity,227 Willow Av.,Drop off Center,Mixed Paper," 6,460 "
+8/1/2018,Commodity,227 Willow Av.,Drop off Center,Cardboard," 9,000 "
+8/1/2018,Commodity,227 Willow Av.,Drop off Center,Steel/Tim, 480 
+8/1/2018,Commodity,227 Willow Av.,Drop off Center,Newspaper," 3,480 "
+8/1/2018,Commodity,227 Willow Av.,Drop off Center,All Mixed (no glass),
+8/1/2018,Commodity,Curbside City-Wide,Curbside,Aluminum,
+8/1/2018,Commodity,Curbside City-Wide,Curbside,Plastics,
+8/1/2018,Commodity,Curbside City-Wide,Curbside,Glass,
+8/1/2018,Commodity,Curbside City-Wide,Curbside,Mixed Paper,
+8/1/2018,Commodity,Curbside City-Wide,Curbside,Cardboard,
+8/1/2018,Commodity,Curbside City-Wide,Curbside,Steel/Tim,
+8/1/2018,Commodity,Curbside City-Wide,Curbside,Newspaper,
+8/1/2018,Commodity,Curbside City-Wide,Curbside,All Mixed (no glass),
+8/1/2018,Commodity,Downtown,Curbside,Aluminum,
+8/1/2018,Commodity,Downtown,Curbside,Plastics,
+8/1/2018,Commodity,Downtown,Curbside,Glass,
+8/1/2018,Commodity,Downtown,Curbside,Mixed Paper,
+8/1/2018,Commodity,Downtown,Curbside,Cardboard,10400.00
+8/1/2018,Commodity,Downtown,Curbside,Steel/Tim,
+8/1/2018,Commodity,Downtown,Curbside,Newspaper,
+8/1/2018,Commodity,Downtown,Curbside,All Mixed (no glass),
+8/1/2018,Commodity,KPD,Other,Aluminum,
+8/1/2018,Commodity,KPD,Other,Plastics,
+8/1/2018,Commodity,KPD,Other,Glass,
+8/1/2018,Commodity,KPD,Other,Mixed Paper,8576.00
+8/1/2018,Commodity,KPD,Other,Cardboard,
+8/1/2018,Commodity,KPD,Other,Steel/Tim,
+8/1/2018,Commodity,KPD,Other,Newspaper,
+8/1/2018,Commodity,KPD,Other,All Mixed (no glass),
+8/1/2018,Commodity,Recycling Trailer,Other,Aluminum,
+8/1/2018,Commodity,Recycling Trailer,Other,Plastics,
+8/1/2018,Commodity,Recycling Trailer,Other,Glass,
+8/1/2018,Commodity,Recycling Trailer,Other,Mixed Paper,
+8/1/2018,Commodity,Recycling Trailer,Other,Cardboard,
+8/1/2018,Commodity,Recycling Trailer,Other,Steel/Tim,
+8/1/2018,Commodity,Recycling Trailer,Other,Newspaper,
+8/1/2018,Commodity,Recycling Trailer,Other,All Mixed (no glass),
+8/1/2018,Landfill,Landfill Class 1,Waste,Transfer Station," 1,133.2 "
+8/1/2018,Landfill,Landfill Class 1,Waste,Household Trash," 3,554.2 "
+8/1/2018,Landfill,Landfill Class 1,Waste,Misc Trash, 1.9 
+8/1/2018,Landfill,Landfill Class 1,Waste,Construction,
+8/1/2018,Landfill,Landfill Class 1,Waste,Codes,
+8/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Transfer Station," 2,249.0 "
+8/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Household Trash,
+8/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Misc Trash,
+8/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Construction, 698.0 
+8/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Codes, 209.0 
+8/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Scrap Meta,55.8
+8/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Tires,10.1
+8/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Carpet,14.8
+8/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW E-Waste,0.0
+8/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW Mixed Recycling,5.1
+8/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW Diverted,
+8/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Scrap Meta,
+8/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Tires,
+8/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Carpet,
+8/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW E-Waste,
+8/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW Mixed Recycling,
+8/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW Diverted,
+8/1/2018,Mulch (TONS),Citywide,Total,Leaves,
+8/1/2018,Mulch (TONS),Citywide,Total,Brush," 2,256.3 "
+9/1/2018,Commodity,Magnolia & Alice,Drop off Center,Aluminum,320
+9/1/2018,Commodity,Magnolia & Alice,Drop off Center,Plastics,3960
+9/1/2018,Commodity,Magnolia & Alice,Drop off Center,Glass,5820
+9/1/2018,Commodity,Magnolia & Alice,Drop off Center,Mixed Paper,13840
+9/1/2018,Commodity,Magnolia & Alice,Drop off Center,Cardboard,13200
+9/1/2018,Commodity,Magnolia & Alice,Drop off Center,Steel/Tim,600
+9/1/2018,Commodity,Magnolia & Alice,Drop off Center,Newspaper,
+9/1/2018,Commodity,Magnolia & Alice,Drop off Center,All Mixed (no glass),
+9/1/2018,Commodity,225 Moody,Drop off Center,Aluminum,
+9/1/2018,Commodity,226 Moody,Drop off Center,Plastics,
+9/1/2018,Commodity,227 Moody,Drop off Center,Glass,
+9/1/2018,Commodity,228 Moody,Drop off Center,Mixed Paper,
+9/1/2018,Commodity,229 Moody,Drop off Center,Cardboard,
+9/1/2018,Commodity,230 Moody,Drop off Center,Steel/Tim,
+9/1/2018,Commodity,231 Moody,Drop off Center,Newspaper,
+9/1/2018,Commodity,232 Moody,Drop off Center,All Mixed (no glass),
+9/1/2018,Commodity,4440 Western Av.,Drop off Center,Aluminum,340
+9/1/2018,Commodity,4440 Western Av.,Drop off Center,Plastics,5520
+9/1/2018,Commodity,4440 Western Av.,Drop off Center,Glass,12880
+9/1/2018,Commodity,4440 Western Av.,Drop off Center,Mixed Paper,26700
+9/1/2018,Commodity,4440 Western Av.,Drop off Center,Cardboard,11260
+9/1/2018,Commodity,4440 Western Av.,Drop off Center,Steel/Tim,940
+9/1/2018,Commodity,4440 Western Av.,Drop off Center,Newspaper,
+9/1/2018,Commodity,4440 Western Av.,Drop off Center,All Mixed (no glass),
+9/1/2018,Commodity,341 Parkvillage,Drop off Center,Aluminum,3000
+9/1/2018,Commodity,341 Parkvillage,Drop off Center,Plastics,25850
+9/1/2018,Commodity,341 Parkvillage,Drop off Center,Glass,37360
+9/1/2018,Commodity,341 Parkvillage,Drop off Center,Mixed Paper,60860
+9/1/2018,Commodity,341 Parkvillage,Drop off Center,Cardboard,37628
+9/1/2018,Commodity,341 Parkvillage,Drop off Center,Steel/Tim,1600
+9/1/2018,Commodity,341 Parkvillage,Drop off Center,Newspaper,
+9/1/2018,Commodity,341 Parkvillage,Drop off Center,All Mixed (no glass),
+9/1/2018,Commodity,227 Willow Av.,Drop off Center,Aluminum,300
+9/1/2018,Commodity,227 Willow Av.,Drop off Center,Plastics,3580
+9/1/2018,Commodity,227 Willow Av.,Drop off Center,Glass,17860
+9/1/2018,Commodity,227 Willow Av.,Drop off Center,Mixed Paper,5680
+9/1/2018,Commodity,227 Willow Av.,Drop off Center,Cardboard,8326
+9/1/2018,Commodity,227 Willow Av.,Drop off Center,Steel/Tim,500
+9/1/2018,Commodity,227 Willow Av.,Drop off Center,Newspaper,
+9/1/2018,Commodity,227 Willow Av.,Drop off Center,All Mixed (no glass),
+9/1/2018,Commodity,Curbside City-Wide,Curbside,Aluminum,
+9/1/2018,Commodity,Curbside City-Wide,Curbside,Plastics,
+9/1/2018,Commodity,Curbside City-Wide,Curbside,Glass,
+9/1/2018,Commodity,Curbside City-Wide,Curbside,Mixed Paper,
+9/1/2018,Commodity,Curbside City-Wide,Curbside,Cardboard,
+9/1/2018,Commodity,Curbside City-Wide,Curbside,Steel/Tim,
+9/1/2018,Commodity,Curbside City-Wide,Curbside,Newspaper,
+9/1/2018,Commodity,Curbside City-Wide,Curbside,All Mixed (no glass),602574
+9/1/2018,Commodity,Downtown,Curbside,Aluminum,
+9/1/2018,Commodity,Downtown,Curbside,Plastics,
+9/1/2018,Commodity,Downtown,Curbside,Glass,
+9/1/2018,Commodity,Downtown,Curbside,Mixed Paper,
+9/1/2018,Commodity,Downtown,Curbside,Cardboard,13840
+9/1/2018,Commodity,Downtown,Curbside,Steel/Tim,
+9/1/2018,Commodity,Downtown,Curbside,Newspaper,
+9/1/2018,Commodity,Downtown,Curbside,All Mixed (no glass),68560
+9/1/2018,Commodity,KPD,Other,Aluminum,
+9/1/2018,Commodity,KPD,Other,Plastics,
+9/1/2018,Commodity,KPD,Other,Glass,
+9/1/2018,Commodity,KPD,Other,Mixed Paper,6139
+9/1/2018,Commodity,KPD,Other,Cardboard,
+9/1/2018,Commodity,KPD,Other,Steel/Tim,
+9/1/2018,Commodity,KPD,Other,Newspaper,
+9/1/2018,Commodity,KPD,Other,All Mixed (no glass),
+9/1/2018,Commodity,Recycling Trailer,Other,Aluminum,
+9/1/2018,Commodity,Recycling Trailer,Other,Plastics,
+9/1/2018,Commodity,Recycling Trailer,Other,Glass,
+9/1/2018,Commodity,Recycling Trailer,Other,Mixed Paper,
+9/1/2018,Commodity,Recycling Trailer,Other,Cardboard,
+9/1/2018,Commodity,Recycling Trailer,Other,Steel/Tim,
+9/1/2018,Commodity,Recycling Trailer,Other,Newspaper,
+9/1/2018,Commodity,Recycling Trailer,Other,All Mixed (no glass),
+9/1/2018,Landfill,Landfill Class 1,Waste,Transfer Station,1003.78
+9/1/2018,Landfill,Landfill Class 1,Waste,Household Trash,3212.14
+9/1/2018,Landfill,Landfill Class 1,Waste,Misc Trash,1.8
+9/1/2018,Landfill,Landfill Class 1,Waste,Construction,
+9/1/2018,Landfill,Landfill Class 1,Waste,Codes,
+9/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Transfer Station,1861
+9/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Household Trash,
+9/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Misc Trash,
+9/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Construction,477
+9/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Codes,402
+9/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Scrap Meta,45.6
+9/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Tires,0
+9/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Carpet,0
+9/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW E-Waste,3.63
+9/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW Mixed Recycling,0.84
+9/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW Diverted,
+9/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Scrap Meta,
+9/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Tires,
+9/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Carpet,
+9/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW E-Waste,
+9/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW Mixed Recycling,
+9/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW Diverted,
+9/1/2018,Mulch (TONS),Citywide,Total,Leaves,
+9/1/2018,Mulch (TONS),Citywide,Total,Brush,2442.15
+10/1/2018,Commodity,Magnolia & Alice,Drop off Center,Aluminum,360
+10/1/2018,Commodity,Magnolia & Alice,Drop off Center,Plastics,3440
+10/1/2018,Commodity,Magnolia & Alice,Drop off Center,Glass,2220
+10/1/2018,Commodity,Magnolia & Alice,Drop off Center,Mixed Paper,8840
+10/1/2018,Commodity,Magnolia & Alice,Drop off Center,Cardboard,11300
+10/1/2018,Commodity,Magnolia & Alice,Drop off Center,Steel/Tim,680
+10/1/2018,Commodity,Magnolia & Alice,Drop off Center,Newspaper,5420
+10/1/2018,Commodity,Magnolia & Alice,Drop off Center,All Mixed (no glass),
+10/1/2018,Commodity,225 Moody,Drop off Center,Aluminum,240
+10/1/2018,Commodity,226 Moody,Drop off Center,Plastics,7260
+10/1/2018,Commodity,227 Moody,Drop off Center,Glass,27160
+10/1/2018,Commodity,228 Moody,Drop off Center,Mixed Paper,11440
+10/1/2018,Commodity,229 Moody,Drop off Center,Cardboard,8400
+10/1/2018,Commodity,230 Moody,Drop off Center,Steel/Tim,2520
+10/1/2018,Commodity,231 Moody,Drop off Center,Newspaper,18540
+10/1/2018,Commodity,232 Moody,Drop off Center,All Mixed (no glass),
+10/1/2018,Commodity,4440 Western Av.,Drop off Center,Aluminum,640
+10/1/2018,Commodity,4440 Western Av.,Drop off Center,Plastics,4380
+10/1/2018,Commodity,4440 Western Av.,Drop off Center,Glass,12320
+10/1/2018,Commodity,4440 Western Av.,Drop off Center,Mixed Paper,17040
+10/1/2018,Commodity,4440 Western Av.,Drop off Center,Cardboard,7580
+10/1/2018,Commodity,4440 Western Av.,Drop off Center,Steel/Tim,740
+10/1/2018,Commodity,4440 Western Av.,Drop off Center,Newspaper,10780
+10/1/2018,Commodity,4440 Western Av.,Drop off Center,All Mixed (no glass),
+10/1/2018,Commodity,341 Parkvillage,Drop off Center,Aluminum,680
+10/1/2018,Commodity,341 Parkvillage,Drop off Center,Plastics,25040
+10/1/2018,Commodity,341 Parkvillage,Drop off Center,Glass,47860
+10/1/2018,Commodity,341 Parkvillage,Drop off Center,Mixed Paper,69040
+10/1/2018,Commodity,341 Parkvillage,Drop off Center,Cardboard,36020
+10/1/2018,Commodity,341 Parkvillage,Drop off Center,Steel/Tim,2560
+10/1/2018,Commodity,341 Parkvillage,Drop off Center,Newspaper,15040
+10/1/2018,Commodity,341 Parkvillage,Drop off Center,All Mixed (no glass),
+10/1/2018,Commodity,227 Willow Av.,Drop off Center,Aluminum,0
+10/1/2018,Commodity,227 Willow Av.,Drop off Center,Plastics,2800
+10/1/2018,Commodity,227 Willow Av.,Drop off Center,Glass,9260
+10/1/2018,Commodity,227 Willow Av.,Drop off Center,Mixed Paper,4980
+10/1/2018,Commodity,227 Willow Av.,Drop off Center,Cardboard,11160
+10/1/2018,Commodity,227 Willow Av.,Drop off Center,Steel/Tim,0
+10/1/2018,Commodity,227 Willow Av.,Drop off Center,Newspaper,5240
+10/1/2018,Commodity,227 Willow Av.,Drop off Center,All Mixed (no glass),
+10/1/2018,Commodity,Curbside City-Wide,Curbside,Aluminum,
+10/1/2018,Commodity,Curbside City-Wide,Curbside,Plastics,
+10/1/2018,Commodity,Curbside City-Wide,Curbside,Glass,
+10/1/2018,Commodity,Curbside City-Wide,Curbside,Mixed Paper,
+10/1/2018,Commodity,Curbside City-Wide,Curbside,Cardboard,
+10/1/2018,Commodity,Curbside City-Wide,Curbside,Steel/Tim,
+10/1/2018,Commodity,Curbside City-Wide,Curbside,Newspaper,
+10/1/2018,Commodity,Curbside City-Wide,Curbside,All Mixed (no glass),849650
+10/1/2018,Commodity,Downtown,Curbside,Aluminum,
+10/1/2018,Commodity,Downtown,Curbside,Plastics,
+10/1/2018,Commodity,Downtown,Curbside,Glass,
+10/1/2018,Commodity,Downtown,Curbside,Mixed Paper,
+10/1/2018,Commodity,Downtown,Curbside,Cardboard,34380
+10/1/2018,Commodity,Downtown,Curbside,Steel/Tim,
+10/1/2018,Commodity,Downtown,Curbside,Newspaper,
+10/1/2018,Commodity,Downtown,Curbside,All Mixed (no glass),179710
+10/1/2018,Commodity,KPD,Other,Aluminum,
+10/1/2018,Commodity,KPD,Other,Plastics,
+10/1/2018,Commodity,KPD,Other,Glass,
+10/1/2018,Commodity,KPD,Other,Mixed Paper,4958
+10/1/2018,Commodity,KPD,Other,Cardboard,
+10/1/2018,Commodity,KPD,Other,Steel/Tim,
+10/1/2018,Commodity,KPD,Other,Newspaper,
+10/1/2018,Commodity,KPD,Other,All Mixed (no glass),
+10/1/2018,Commodity,Recycling Trailer,Other,Aluminum,
+10/1/2018,Commodity,Recycling Trailer,Other,Plastics,
+10/1/2018,Commodity,Recycling Trailer,Other,Glass,
+10/1/2018,Commodity,Recycling Trailer,Other,Mixed Paper,
+10/1/2018,Commodity,Recycling Trailer,Other,Cardboard,
+10/1/2018,Commodity,Recycling Trailer,Other,Steel/Tim,
+10/1/2018,Commodity,Recycling Trailer,Other,Newspaper,
+10/1/2018,Commodity,Recycling Trailer,Other,All Mixed (no glass),
+10/1/2018,Landfill,Landfill Class 1,Waste,Transfer Station,1216
+10/1/2018,Landfill,Landfill Class 1,Waste,Household Trash,3591.5
+10/1/2018,Landfill,Landfill Class 1,Waste,Misc Trash,3.4
+10/1/2018,Landfill,Landfill Class 1,Waste,Construction,
+10/1/2018,Landfill,Landfill Class 1,Waste,Codes,
+10/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Transfer Station,2246.3
+10/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Household Trash,
+10/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Misc Trash,
+10/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Construction,
+10/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Codes,
+10/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Scrap Meta,64.67
+10/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Tires,10.36
+10/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Carpet,0
+10/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW E-Waste,0
+10/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW Mixed Recycling,2.8
+10/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW Diverted,
+10/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Scrap Meta,
+10/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Tires,
+10/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Carpet,
+10/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW E-Waste,
+10/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW Mixed Recycling,
+10/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW Diverted,
+10/1/2018,Mulch (TONS),Citywide,Total,Leaves,133.25
+10/1/2018,Mulch (TONS),Citywide,Total,Brush,1922
+11/1/2018,Commodity,Magnolia & Alice,Drop off Center,Aluminum, 898 
+11/1/2018,Commodity,Magnolia & Alice,Drop off Center,Plastics," 4,740 "
+11/1/2018,Commodity,Magnolia & Alice,Drop off Center,Glass," 8,720 "
+11/1/2018,Commodity,Magnolia & Alice,Drop off Center,Mixed Paper," 10,300 "
+11/1/2018,Commodity,Magnolia & Alice,Drop off Center,Cardboard," 6,820 "
+11/1/2018,Commodity,Magnolia & Alice,Drop off Center,Steel/Tim," 2,080 "
+11/1/2018,Commodity,Magnolia & Alice,Drop off Center,Newspaper, -   
+11/1/2018,Commodity,Magnolia & Alice,Drop off Center,All Mixed (no glass),
+11/1/2018,Commodity,225 Moody,Drop off Center,Aluminum, -   
+11/1/2018,Commodity,226 Moody,Drop off Center,Plastics," 7,140 "
+11/1/2018,Commodity,227 Moody,Drop off Center,Glass," 12,020 "
+11/1/2018,Commodity,228 Moody,Drop off Center,Mixed Paper," 43,100 "
+11/1/2018,Commodity,229 Moody,Drop off Center,Cardboard," 10,080 "
+11/1/2018,Commodity,230 Moody,Drop off Center,Steel/Tim," 1,700 "
+11/1/2018,Commodity,231 Moody,Drop off Center,Newspaper, -   
+11/1/2018,Commodity,232 Moody,Drop off Center,All Mixed (no glass),
+11/1/2018,Commodity,4440 Western Av.,Drop off Center,Aluminum," 1,190 "
+11/1/2018,Commodity,4440 Western Av.,Drop off Center,Plastics," 6,000 "
+11/1/2018,Commodity,4440 Western Av.,Drop off Center,Glass," 12,400 "
+11/1/2018,Commodity,4440 Western Av.,Drop off Center,Mixed Paper," 8,380 "
+11/1/2018,Commodity,4440 Western Av.,Drop off Center,Cardboard," 5,280 "
+11/1/2018,Commodity,4440 Western Av.,Drop off Center,Steel/Tim, -   
+11/1/2018,Commodity,4440 Western Av.,Drop off Center,Newspaper, -   
+11/1/2018,Commodity,4440 Western Av.,Drop off Center,All Mixed (no glass),
+11/1/2018,Commodity,341 Parkvillage,Drop off Center,Aluminum," 2,660 "
+11/1/2018,Commodity,341 Parkvillage,Drop off Center,Plastics," 28,180 "
+11/1/2018,Commodity,341 Parkvillage,Drop off Center,Glass," 33,188 "
+11/1/2018,Commodity,341 Parkvillage,Drop off Center,Mixed Paper," 74,673 "
+11/1/2018,Commodity,341 Parkvillage,Drop off Center,Cardboard," 33,305 "
+11/1/2018,Commodity,341 Parkvillage,Drop off Center,Steel/Tim," 2,500 "
+11/1/2018,Commodity,341 Parkvillage,Drop off Center,Newspaper, -   
+11/1/2018,Commodity,341 Parkvillage,Drop off Center,All Mixed (no glass),
+11/1/2018,Commodity,227 Willow Av.,Drop off Center,Aluminum, 960 
+11/1/2018,Commodity,227 Willow Av.,Drop off Center,Plastics," 3,920 "
+11/1/2018,Commodity,227 Willow Av.,Drop off Center,Glass," 19,020 "
+11/1/2018,Commodity,227 Willow Av.,Drop off Center,Mixed Paper," 8,170 "
+11/1/2018,Commodity,227 Willow Av.,Drop off Center,Cardboard," 12,220 "
+11/1/2018,Commodity,227 Willow Av.,Drop off Center,Steel/Tim, -   
+11/1/2018,Commodity,227 Willow Av.,Drop off Center,Newspaper," 3,800 "
+11/1/2018,Commodity,227 Willow Av.,Drop off Center,All Mixed (no glass),
+11/1/2018,Commodity,Curbside City-Wide,Curbside,Aluminum,
+11/1/2018,Commodity,Curbside City-Wide,Curbside,Plastics,
+11/1/2018,Commodity,Curbside City-Wide,Curbside,Glass,
+11/1/2018,Commodity,Curbside City-Wide,Curbside,Mixed Paper,
+11/1/2018,Commodity,Curbside City-Wide,Curbside,Cardboard,
+11/1/2018,Commodity,Curbside City-Wide,Curbside,Steel/Tim,
+11/1/2018,Commodity,Curbside City-Wide,Curbside,Newspaper,
+11/1/2018,Commodity,Curbside City-Wide,Curbside,All Mixed (no glass),
+11/1/2018,Commodity,Downtown,Curbside,Aluminum,
+11/1/2018,Commodity,Downtown,Curbside,Plastics,
+11/1/2018,Commodity,Downtown,Curbside,Glass,
+11/1/2018,Commodity,Downtown,Curbside,Mixed Paper,
+11/1/2018,Commodity,Downtown,Curbside,Cardboard,36660.00
+11/1/2018,Commodity,Downtown,Curbside,Steel/Tim,
+11/1/2018,Commodity,Downtown,Curbside,Newspaper,
+11/1/2018,Commodity,Downtown,Curbside,All Mixed (no glass),
+11/1/2018,Commodity,KPD,Other,Aluminum,
+11/1/2018,Commodity,KPD,Other,Plastics,
+11/1/2018,Commodity,KPD,Other,Glass,
+11/1/2018,Commodity,KPD,Other,Mixed Paper,
+11/1/2018,Commodity,KPD,Other,Cardboard,
+11/1/2018,Commodity,KPD,Other,Steel/Tim,
+11/1/2018,Commodity,KPD,Other,Newspaper,
+11/1/2018,Commodity,KPD,Other,All Mixed (no glass),
+11/1/2018,Commodity,Recycling Trailer,Other,Aluminum,
+11/1/2018,Commodity,Recycling Trailer,Other,Plastics,
+11/1/2018,Commodity,Recycling Trailer,Other,Glass,
+11/1/2018,Commodity,Recycling Trailer,Other,Mixed Paper,
+11/1/2018,Commodity,Recycling Trailer,Other,Cardboard,
+11/1/2018,Commodity,Recycling Trailer,Other,Steel/Tim,
+11/1/2018,Commodity,Recycling Trailer,Other,Newspaper,
+11/1/2018,Commodity,Recycling Trailer,Other,All Mixed (no glass),
+11/1/2018,Landfill,Landfill Class 1,Waste,Transfer Station,1076.1
+11/1/2018,Landfill,Landfill Class 1,Waste,Household Trash,3638
+11/1/2018,Landfill,Landfill Class 1,Waste,Misc Trash,3.6
+11/1/2018,Landfill,Landfill Class 1,Waste,Construction,
+11/1/2018,Landfill,Landfill Class 1,Waste,Codes,
+11/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Transfer Station,1830.6
+11/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Household Trash,
+11/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Misc Trash,
+11/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Construction,280
+11/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Codes,251
+11/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Scrap Meta,28.7
+11/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Tires,7.7
+11/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Carpet,0.0
+11/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW E-Waste,0.0
+11/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW Mixed Recycling,9.8
+11/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW Diverted,
+11/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Scrap Meta,
+11/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Tires,
+11/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Carpet,
+11/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW E-Waste,
+11/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW Mixed Recycling,
+11/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW Diverted, 2.3 
+11/1/2018,Mulch (TONS),Citywide,Total,Leaves," 1,768.8 "
+11/1/2018,Mulch (TONS),Citywide,Total,Brush," 1,279.2 "
+12/1/2018,Commodity,Magnolia & Alice,Drop off Center,Aluminum, 360 
+12/1/2018,Commodity,Magnolia & Alice,Drop off Center,Plastics," 3,860 "
+12/1/2018,Commodity,Magnolia & Alice,Drop off Center,Glass," 7,880 "
+12/1/2018,Commodity,Magnolia & Alice,Drop off Center,Mixed Paper," 10,800 "
+12/1/2018,Commodity,Magnolia & Alice,Drop off Center,Cardboard," 6,140 "
+12/1/2018,Commodity,Magnolia & Alice,Drop off Center,Steel/Tim, 940 
+12/1/2018,Commodity,Magnolia & Alice,Drop off Center,Newspaper,
+12/1/2018,Commodity,Magnolia & Alice,Drop off Center,All Mixed (no glass),
+12/1/2018,Commodity,225 Moody,Drop off Center,Aluminum," 1,240 "
+12/1/2018,Commodity,225 Moody,Drop off Center,Plastics," 6,126 "
+12/1/2018,Commodity,225 Moody,Drop off Center,Glass," 14,940 "
+12/1/2018,Commodity,225 Moody,Drop off Center,Mixed Paper," 30,920 "
+12/1/2018,Commodity,225 Moody,Drop off Center,Cardboard," 10,100 "
+12/1/2018,Commodity,225 Moody,Drop off Center,Steel/Tim, -   
+12/1/2018,Commodity,225 Moody,Drop off Center,Newspaper," 14,560 "
+12/1/2018,Commodity,225 Moody,Drop off Center,All Mixed (no glass),
+12/1/2018,Commodity,4440 Western Av.,Drop off Center,Aluminum, -   
+12/1/2018,Commodity,4440 Western Av.,Drop off Center,Plastics," 4,500 "
+12/1/2018,Commodity,4440 Western Av.,Drop off Center,Glass," 6,740 "
+12/1/2018,Commodity,4440 Western Av.,Drop off Center,Mixed Paper," 23,080 "
+12/1/2018,Commodity,4440 Western Av.,Drop off Center,Cardboard," 8,460 "
+12/1/2018,Commodity,4440 Western Av.,Drop off Center,Steel/Tim, -   
+12/1/2018,Commodity,4440 Western Av.,Drop off Center,Newspaper, -   
+12/1/2018,Commodity,4440 Western Av.,Drop off Center,All Mixed (no glass),
+12/1/2018,Commodity,341 Parkvillage,Drop off Center,Aluminum," 2,860 "
+12/1/2018,Commodity,341 Parkvillage,Drop off Center,Plastics," 29,640 "
+12/1/2018,Commodity,341 Parkvillage,Drop off Center,Glass," 51,500 "
+12/1/2018,Commodity,341 Parkvillage,Drop off Center,Mixed Paper," 81,460 "
+12/1/2018,Commodity,341 Parkvillage,Drop off Center,Cardboard," 45,880 "
+12/1/2018,Commodity,341 Parkvillage,Drop off Center,Steel/Tim," 2,640 "
+12/1/2018,Commodity,341 Parkvillage,Drop off Center,Newspaper, -   
+12/1/2018,Commodity,341 Parkvillage,Drop off Center,All Mixed (no glass),
+12/1/2018,Commodity,227 Willow Av.,Drop off Center,Aluminum, 340 
+12/1/2018,Commodity,227 Willow Av.,Drop off Center,Plastics," 2,755 "
+12/1/2018,Commodity,227 Willow Av.,Drop off Center,Glass," 13,740 "
+12/1/2018,Commodity,227 Willow Av.,Drop off Center,Mixed Paper," 6,140 "
+12/1/2018,Commodity,227 Willow Av.,Drop off Center,Cardboard," 11,680 "
+12/1/2018,Commodity,227 Willow Av.,Drop off Center,Steel/Tim, 520 
+12/1/2018,Commodity,227 Willow Av.,Drop off Center,Newspaper, -   
+12/1/2018,Commodity,227 Willow Av.,Drop off Center,All Mixed (no glass),
+12/1/2018,Commodity,Curbside City-Wide,Curbside,Aluminum,
+12/1/2018,Commodity,Curbside City-Wide,Curbside,Plastics,
+12/1/2018,Commodity,Curbside City-Wide,Curbside,Glass,
+12/1/2018,Commodity,Curbside City-Wide,Curbside,Mixed Paper,
+12/1/2018,Commodity,Curbside City-Wide,Curbside,Cardboard,
+12/1/2018,Commodity,Curbside City-Wide,Curbside,Steel/Tim,
+12/1/2018,Commodity,Curbside City-Wide,Curbside,Newspaper,
+12/1/2018,Commodity,Curbside City-Wide,Curbside,All Mixed (no glass),
+12/1/2018,Commodity,Downtown,Curbside,Aluminum,
+12/1/2018,Commodity,Downtown,Curbside,Plastics,
+12/1/2018,Commodity,Downtown,Curbside,Glass,
+12/1/2018,Commodity,Downtown,Curbside,Mixed Paper,
+12/1/2018,Commodity,Downtown,Curbside,Cardboard,22240.00
+12/1/2018,Commodity,Downtown,Curbside,Steel/Tim,
+12/1/2018,Commodity,Downtown,Curbside,Newspaper,
+12/1/2018,Commodity,Downtown,Curbside,All Mixed (no glass),
+12/1/2018,Commodity,KPD,Other,Aluminum,
+12/1/2018,Commodity,KPD,Other,Plastics,
+12/1/2018,Commodity,KPD,Other,Glass,
+12/1/2018,Commodity,KPD,Other,Mixed Paper,
+12/1/2018,Commodity,KPD,Other,Cardboard,
+12/1/2018,Commodity,KPD,Other,Steel/Tim,
+12/1/2018,Commodity,KPD,Other,Newspaper,
+12/1/2018,Commodity,KPD,Other,All Mixed (no glass),
+12/1/2018,Commodity,Recycling Trailer,Other,Aluminum,
+12/1/2018,Commodity,Recycling Trailer,Other,Plastics,
+12/1/2018,Commodity,Recycling Trailer,Other,Glass,
+12/1/2018,Commodity,Recycling Trailer,Other,Mixed Paper,
+12/1/2018,Commodity,Recycling Trailer,Other,Cardboard,
+12/1/2018,Commodity,Recycling Trailer,Other,Steel/Tim,
+12/1/2018,Commodity,Recycling Trailer,Other,Newspaper,
+12/1/2018,Commodity,Recycling Trailer,Other,All Mixed (no glass),
+12/1/2018,Landfill,Landfill Class 1,Waste,Transfer Station, 984 
+12/1/2018,Landfill,Landfill Class 1,Waste,Household Trash," 3,474 "
+12/1/2018,Landfill,Landfill Class 1,Waste,Misc Trash, 3 
+12/1/2018,Landfill,Landfill Class 1,Waste,Construction,
+12/1/2018,Landfill,Landfill Class 1,Waste,Codes,
+12/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Transfer Station," 1,532 "
+12/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Household Trash,
+12/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Misc Trash,
+12/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Construction, 264 
+12/1/2018,Landfill,Landfill Class 3,"C&D, Diverted",Codes, 366 
+12/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Scrap Meta,38.2
+12/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Tires,9.5
+12/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,TS Carpet,0.0
+12/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW E-Waste,0.0
+12/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW Mixed Recycling,1.5
+12/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Non-Commodity Recycling,HHW Diverted,
+12/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Scrap Meta,
+12/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Tires,
+12/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,TS Carpet,
+12/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW E-Waste,
+12/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW Mixed Recycling,
+12/1/2018,SWMF Recycled/Diverted (TONS),Citywide,Diverted,HHW Diverted,
+12/1/2018,Mulch (TONS),Citywide,Total,Leaves," 2,630.0 "
+12/1/2018,Mulch (TONS),Citywide,Total,Brush, 250.0 
