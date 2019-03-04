@@ -44,16 +44,16 @@ geocoded <- data.frame(stringsAsFactors = FALSE)
 # write.csv(cv_addresses_to_geocode_list_backup,"~/git_p/knxhack/cv_addresses_to_geocode_list_backup2.csv")
 
 #### Commenting this part out for now -- ! WOuld like to have this setup so they can upload a CSV of violators and any new address is geocodded
-for(i in 1:nrow(cv_addresses_to_geocode_list)){
-  result <- geocode( as.character(cv_addresses_to_geocode_list$address[i]), output = "latlona", source = "google")
-  if(T %in% is.na(result)){
-    print(paste0("The following address could not be matched: ",as.character(cv_addresses_to_geocode_list$address[i])))
-  }else{
-    cv_addresses_to_geocode_list$lon[i] <- as.numeric(result[1])
-    cv_addresses_to_geocode_list$lat[i] <- as.numeric(result[2])
-    cv_addresses_to_geocode_list$geoAddress[i] <- as.character(result[3])
-  }
-}
+# for(i in 1:nrow(cv_addresses_to_geocode_list)){
+#   result <- geocode( as.character(cv_addresses_to_geocode_list$address[i]), output = "latlona", source = "google")
+#   if(T %in% is.na(result)){
+#     print(paste0("The following address could not be matched: ",as.character(cv_addresses_to_geocode_list$address[i])))
+#   }else{
+#     cv_addresses_to_geocode_list$lon[i] <- as.numeric(result[1])
+#     cv_addresses_to_geocode_list$lat[i] <- as.numeric(result[2])
+#     cv_addresses_to_geocode_list$geoAddress[i] <- as.character(result[3])
+#   }
+# }
 
 ### Create a list of all geocodded addresses
 cv_addresses_to_geocode_list <- cv_addresses_to_geocode_list %>% mutate_all(as.character)
@@ -65,26 +65,30 @@ cv_address_list <- cv_hist_address_list %>%
 cv_address_list <- cv_address_list %>% filter(!geoAddress == "")
 
 ### Create new df containing geocodded address field
-cv_df_geo <- cv_df %>% 
-  left_join(cv_address_list,by=c("address")) %>% filter(!geoAddress == "")
-cv_df_geo <- dplyr::sample_n(cv_df_geo,10000,replace=FALSE)
+cv_df_geo <- cv_df %>% left_join(cv_address_list,by=c("address")) %>% filter(!geoAddress == "")
+cv_df_geo <- dplyr::sample_n(cv_df_geo,12000,replace=FALSE)
 
 ### Write newly geocodded data
 #write_csv(cv_df_geo,"~/git_p/knxhack/curbside_violators_geo.csv")
 
 ### Knox geo-fence
-long_range <- c(-84.44,-83.51)
-lat_range <- c(36.22,36.25)
+# long_range <- c(-84.44,-83.51)
+# lat_range <- c(36.22,36.25)
 
-cv_geo_s <- cv_df_geo %>% mutate(lat = as.numeric(lat)
-                                 ,lon = as.numeric(lon)) %>% filter(lat>0 & lon < -80) 
-# %>%
-# filter( lat >= lat_range[1] & lat <= lat_range[2] &
-# lon >= long_range[1] & lon <= long_range[2]) %>% data.frame()
+# long_range <- c(-84.05589,-83.786725)
+# lat_range <- c(35.895221,36.033466)
 
+# long_range <- c(-83.997697,-83.844232)
+# lat_range <- c(35.924627,36.005211)
+
+long_range <- c(-84.004735,-83.837193)
+lat_range <- c(35.919275,36.005558)
+
+cv_geo_s <- cv_df_geo %>% mutate(lat = as.numeric(lat),lon = as.numeric(lon)) %>% filter(lat >0 & lon < -80) 
+# %>% filter( lat >= lat_range[1] & lat <= lat_range[2] & lon >= long_range[1] & lon <= long_range[2]) %>% data.frame()
 
 ########## Cluster Violators (Step 1) ########## 
-k.max <- 5 # Maximal number of clusters
+k.max <- 3 # Maximal number of clusters
 cv_geo_s_agg <- cv_geo_s %>% 
   group_by(address, lat, lon, geoAddress) %>% 
   summarise( n = n()
@@ -111,9 +115,6 @@ k <- kmeans(scale(cv_geo_s_agg[c('over_flow_n','not_out_n','not_at_curb_n')]), k
 
 cv_geo_s_agg <- data.frame(cv_geo_s_agg, v_cluster = k$cluster)
 
-
-
-
 ##### Identify worst offending cluster -- This method is simplistic and will need to be enhanced once more fields are added to clusthering alg
 ##### lpc - denotes lowest preforming cluster 
 ##### v denotes values cluster
@@ -135,7 +136,7 @@ cv_geo_s_lpc <- cv_geo_s_agg[which(cv_geo_s_agg$v_cluster==lpc),]
 
 ########## Distance Clustering (Step 2) ##########
 ##### Define distance threshold (m)
-d=400
+d=500
 
 ##### Setup lat/lng for distance clustering
 x<-cv_geo_s_lpc[which(cv_geo_s_lpc$v_cluster==lpc),]$lon
@@ -199,7 +200,7 @@ cv_geo_s_lpc <- cv_geo_s_lpc %>%
 ##### Calculate distance from cluster center to make sure everything worked out correctly with distance clustering
 data.table::setDT(cv_geo_s_lpc)[ , dist_from_center_m := distGeo(matrix(c(lon, lat), ncol = 2),
                                                                  matrix(c(dist_clust_center_lon, dist_clust_center_lat), ncol = 2))]
-max(cv_geo_s_lpc$dist_km)
+# max(cv_geo_s_lpc$dist_km)
 
 
 ##### Create a summary table for each distance cluster
@@ -221,6 +222,8 @@ cv_geo_s_lpc_dist_agg <- cv_geo_s_lpc %>%
 cv_geo_s_lpc_dist_agg <- cv_geo_s_lpc_dist_agg[with(cv_geo_s_lpc_dist_agg, order( cluster_address_count , decreasing=TRUE )),] %>% 
   mutate(dist_cluster_rank = row_number())
 
+cv_geo_s_lpc_dist_agg <- cv_geo_s_lpc_dist_agg %>% filter(cluster_address_count >= 3)
+
 ##### Create df for top 30 clusters by total obvservation to highlight 
 cv_geo_s_hc<-cv_geo_s_lpc[which(cv_geo_s_lpc$dist_cluster %in% head(cv_geo_s_lpc_dist_agg$dist_cluster,20) ),]
 
@@ -229,7 +232,6 @@ output$mymap <- renderLeaflet({
   
   ########## Visualize on map ########## 
   ##### Setup color pallets
-  # conpal <- colorNumeric("GnBu", cv_geo_s_agg$address_violation_n , na.color = "black", alpha = FALSE,reverse = FALSE)
   conpal2 <- colorNumeric(colorRamp(c("#d68888", "#6f0000"), interpolate = "spline"), as.numeric(cv_geo_s_hc$avg_address_violation_n) , na.color = "black", alpha = F,reverse = F)
   
   ##### Create icons for distance cluster center
@@ -274,7 +276,10 @@ output$mymap <- renderLeaflet({
                      ,opacity = .5
                      ,weight = 5
                      ,fill = T,fillOpacity = .3
-                     ,popup = paste0("<b>Address: </b>",cv_geo_s_agg$address,"<br/><b>geoAddress: </b>",cv_geo_s_agg$geoAddress
+                     ,popup = paste0("<b>Address: </b>",cv_geo_s_agg$address
+                                     ,"<br/><b>geoAddress: </b>",cv_geo_s_agg$geoAddress
+                                     ,"<br/><b>Address Lat: </b>",cv_geo_s_agg$lat
+                                     ,"<br/><b>Address Lon: </b>",cv_geo_s_agg$lon
                                      ,'<br/><b>Address Over Flow Count: </b>',cv_geo_s_agg$over_flow_n
                                      ,'<br/><b>Address Not Out Count: </b>',cv_geo_s_agg$not_out_n
                                      ,'<br/><b>Address Not at Curb Count: </b>',cv_geo_s_agg$not_at_curb_n
@@ -292,16 +297,16 @@ output$mymap <- renderLeaflet({
                                    ,'<br/><b>Cluster Not At Curb Score: </b>',round(cv_geo_s_hc$not_at_curb_score,4)
                                    ,'<br/><b>Dist Clust Rank: </b>',cv_geo_s_hc$address_violation_n
                                    ,"<br/><b>Distance From Cluster Center (m): </b>",round(cv_geo_s_hc$dist_from_center_m,2))
-                     ,group = "Cluster") %>%
+                     ,group = "High Violation Clusters") %>%
     
     addMarkers(lng=as.numeric(cv_geo_s_hc$dist_clust_center_lon), lat=as.numeric(cv_geo_s_hc$dist_clust_center_lat)
-               ,popup = paste0("<b>Cluster ID: </b>",cv_geo_s_hc$dist_cluster,"<br/><b>Number of Points in Cluster: </b>",cv_geo_s_hc$cluster_address_count,"<br/><b>Average address_violation_n: </b>",round(cv_geo_s_hc$avg_address_violation_n,4),"<br/><b>Cluster Center Lat: </b>", round(cv_geo_s_hc$dist_clust_center_lat,5),"<br/><b>Cluster Center Long: </b>",round(cv_geo_s_hc$dist_clust_center_lon,5))
-               ,group = "Cluster Center"
+               ,popup = paste0("<b>Cluster ID: </b>",cv_geo_s_hc$dist_cluster,"<br/><b>Number of Points in Cluster: </b>",cv_geo_s_hc$cluster_address_count,"<br/><b>Average Address Violations: </b>",round(cv_geo_s_hc$avg_address_violation_n,4),"<br/><b>Cluster Center Lat: </b>", round(cv_geo_s_hc$dist_clust_center_lat,5),"<br/><b>Cluster Center Long: </b>",round(cv_geo_s_hc$dist_clust_center_lon,5))
+               ,group = "Cluster Centers"
                ,icon = ~icons(iconUrl = iconFiles)) %>%
     
     addLayersControl(
       baseGroups = c("Black and White","Open Street Map","Satellite","Dark"),
-      overlayGroups = c("Curb Violators","Cluster","Cluster Center"),
+      overlayGroups = c("Curb Violators","High Violation Clusters","Cluster Centers"),
       options = layersControlOptions(collapsed = FALSE)) %>%
     # hideGroup(c("")) %>%
     addScaleBar(position = "bottomleft", options = scaleBarOptions())
